@@ -1,3 +1,8 @@
+---
+layout: default
+title: Secure Digital Folder
+description: One stop app for storing all your sensitive information
+---
 ## Privacy Policy
 
 Pratik Prajapati built the Secure Digital Folder app as an Ad Supported app. This SERVICE is provided by Pratik Prajapati at no cost and is intended for use as is.
